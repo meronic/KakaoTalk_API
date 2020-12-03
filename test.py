@@ -1,1 +1,5 @@
-print("hello world")
+import random
+
+a = random.Random()
+
+print(a)
